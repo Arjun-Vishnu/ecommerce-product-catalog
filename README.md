@@ -47,7 +47,7 @@ This project is an e-commerce product catalog that fetches product data from the
 ### Clone the repository:
 
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Arjun-Vishnu/ecommerce-product-catalog.git
   
   ### Install Dependencies:
 
